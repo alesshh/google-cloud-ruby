@@ -1,5 +1,11 @@
 # Release History
 
+### 0.6.0 / 2020-09-01
+
+#### Features
+
+* Added ExportAssetsResponse#output_result
+
 ### 0.5.3 / 2020-08-10
 
 #### Bug Fixes
